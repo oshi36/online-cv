@@ -64,3 +64,4 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
 
+NOTE : This is a demo tutorial on how to build CV for Freshkite's folks.
